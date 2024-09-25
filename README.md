@@ -267,6 +267,10 @@ https://smbat.sandm.cc/post/tiny-ray-tracer/
 
 https://edw.is/learning-vulkan/
 
+https://penrose.cs.cmu.edu/blog/bloom
+
+
+
 
 
 
