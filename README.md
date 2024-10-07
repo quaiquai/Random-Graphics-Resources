@@ -1,46 +1,54 @@
 # Graphics-Resources
 Some random resources I have found over the years. Will be expanding and organizing later.
 
+##Graphics Basics
+- [A trip through the Graphics Pipeline 2011: Index](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+- [Real-Time Rendering Resources (BOOKS) ](https://www.realtimerendering.com/)
 
-https://school.geekwall.in/p/Byz8Rg0GX/writing-your-own-programming-language-and-compiler-with-python
+##DirectX11
+- http://www.rastertek.com/tertut16.html
 
-http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/
+##Vulkan
+- [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan/)
+- [API without Secrets: Introduction to Vulkan](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-1.html)
+- [Vulkan Tutorial](https://vulkan-tutorial.com/)
+- [Vulkan Spec](https://registry.khronos.org/vulkan/specs/1.1/html/vkspec.html)
+- [Vulkan Examples](https://github.com/SaschaWillems/Vulkan)
+- [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
+- [Vulkan Synchronization Primer](https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/)
 
-http://tume-maailm.pri.ee/ylikool/ComputerGraphicsSeminar/2016/fall/other/Non-Euclidean%20Geometry%20Rendering%20-%20Diana%20Algma.pdf
+##Debugging
+- [RenderDoc](https://www.realtimerendering.com/)
 
-https://wwwtyro.net/2018/02/25/caffeine.html
+##Frustum Culling
+- [View frustum culling](https://fgiesen.wordpress.com/2010/10/17/view-frustum-culling/)
 
-https://gpfault.net/posts/webgl2-particles.txt.html
+##Particle Systems
+- [WebGL Tutorial: Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/)
+- [GPU-Accelerated Particles with WebGL 2](https://gpfault.net/posts/webgl2-particles.txt.html)
+- [Implementing soft particles in WebGL and OpenGL ES](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0)
 
-http://math.hws.edu/graphicsbook/c3/s5.html
+##NON-EUCLIDEAN RENDERING
+- http://tume-maailm.pri.ee/ylikool/ComputerGraphicsSeminar/2016/fall/other/Non-Euclidean%20Geometry%20Rendering%20-%20Diana%20Algma.pdf
+- https://torinmr.github.io/cs148/
 
-https://www.researchgate.net/publication/234412386_On_Bibliographic_Networks
+##Basic Path Tracing
+- https://wwwtyro.net/2018/02/25/caffeine.html
 
-http://vlado.fmf.uni-lj.si/pub/networks/doc/ECPR/biblio-SUNBELT06.pdf
+##Subsurface Scattering
+- [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 
-https://www.researchgate.net/profile/David_Modjeska/publication/2807720_BIVTECI_A_Bibliographic_Visualization_Tool/links/00b495175848a38b95000000/BIVTECI-A-Bibliographic-Visualization-Tool.pdf?origin=publication_detail
+##SDF Shaders & Resources
+-https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf
 
-https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects
+##Collision Detection & Physics
+- https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects
+- https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics
 
-https://www.shadertoy.com/view/3tX3zl
+##Shader Techniques & Tutorials
+- [RSL Using smoothstep](https://www.fundza.com/rman_shaders/smoothstep/)
 
-https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics
 
-https://twitter.com/CasualEffects/status/1190761089258213376
-
-http://graphics.stanford.edu/courses/cs348c/
-
-https://www.soft8soft.com/topic/portal-rendering-in-webgl/
-
-https://twitter.com/m_ninepoints/status/1215429886715629569?s=21
-
-http://www.rastertek.com/tertut16.html
-
-https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan/
-
-https://www.reddit.com/r/webgl/comments/f1vs6w/implementing_soft_particles_in_webgl_and_opengl_es/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-
-https://therealmjp.github.io/posts/sss-sg/
 
 https://erkaman.github.io/posts/junior_graphics_programmer_interview.html?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
