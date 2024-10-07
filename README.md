@@ -15,6 +15,7 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Introduction to Animation Software Engineering](https://nccastaff.bournemouth.ac.uk/jmacey/msc/ase/lectures/Lecture1/)
 - [Rasterising a triangle](https://jtsorlinis.github.io/rendering-tutorial/)
 - [Graphics Gems, by Book](https://www.realtimerendering.com/resources/GraphicsGems/gems.html#gems)
+- [Berkeley Graphics Course](https://cs184.eecs.berkeley.edu/sp24)
 
 # Math
 - [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
@@ -28,7 +29,10 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Probability Theory for Physically Based Rendering](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering/)
 - [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/The-Art-of-Linear-Algebra.pdf)
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
+- [Calculus BLUE Vol 1 : Vectors & Matrices ](https://www.youtube.com/playlist?list=PL8erL0pXF3JYm7VaTdKDaWc8Q3FuP8Sa7)
+- [Rotors: A practical introduction for 3D graphics](https://jacquesheunis.com/post/rotors/)
 
+  
 # DirectX
 - http://www.rastertek.com/tertut16.html
 - [Getting Started With DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
@@ -59,11 +63,17 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [WebGL Tutorial: Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/)
 - [GPU-Accelerated Particles with WebGL 2](https://gpfault.net/posts/webgl2-particles.txt.html)
 - [Implementing soft particles in WebGL and OpenGL ES](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0)
+- [GPU-driven Particle Rendering](https://www.team-nutshell.dev/nutshellengine/articles/particle-rendering)
+- [Particle SystemsmA Technique for Modeling a Class of Fuzzy Objects](https://cal.cs.umbc.edu/Courses/CS6967-F08/Papers/Reeves-1983-PSA.pdf)
 
 # Voxel Rendering
 - [Voxel Rendering Using Discrete Ray Tracing](http://castingrays.blogspot.com/2014/01/voxel-rendering-using-discrete-ray.html?m=1)
 - [Lets Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/home/basic-block-rendering)
 - [Ray Tracing Voxels in C++ Series](https://jacco.ompf2.com/2024/04/24/ray-tracing-with-voxels-in-c-series-part-1/)
+- [The Perfect Voxel Engine](https://voxely.net/blog/the-perfect-voxel-engine/)
+- [raytracing 187,500 voxels in the browser with only 13 kilobytes](https://idkwhatt0callthis.blogspot.com/2024/09/raytracing-187500-voxels-in-browser.html)
+- [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
+- [Filtering After Shading with Stochastic Texture Filtering](https://research.nvidia.com/labs/rtr/publication/pharr2024stochtex/)
 
 # Foveated Rendering
 - [Foveated rendering: A state-of-the-art survey](https://www.sciopen.com/article/10.1007/s41095-022-0306-4)
@@ -78,19 +88,29 @@ Some random resources I have found over the years. Will be expanding and organiz
 
 # Ray/Path Tracing
 - https://wwwtyro.net/2018/02/25/caffeine.html
+- [Radiance Cascades: A Novel Approach to Calculating Global Illumination[WIP]](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view)
+- [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+- [The Ray Tracer Challenge](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/)
 - [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI)
 - [Path Tracing – Getting Started With Diffuse and Emissive](https://blog.demofox.org/2016/09/21/path-tracing-getting-started-with-diffuse-and-emissive/)
 - [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer)
 - [Implementing a GPU Voxel Octree Path Tracer](https://www.enkisoftware.com/devlogpost-20230823-1-Implementing-a-GPUVoxel-Octree-Path-Tracer)
 - [Rendering Algorithms Course Material](https://cs87-dartmouth.github.io/Fall2022/schedule.html)
+- [The Technology of The Tomorrow Children](https://www.gdcvault.com/play/1022428/The-Technology-of-The-Tomorrow)
 - ### ReSTIR
  - [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://research.nvidia.com/sites/default/files/pubs/2020-07_Spatiotemporal-reservoir-resampling/ReSTIR.pdf)
  - [ReSTIR GI: Path Resampling for Real-Time Path Tracing](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
  - [A gentler introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
  - [A Gentle Introduction to ReSTIR: Path Reuse in Real-time](https://intro-to-restir.cwyman.org/)
  - [Spatiotemporal Reservoir Resampling (ReSTIR) - Theory and Basic Implementation](https://gamehacker1999.github.io/posts/restir/)
+ - [ReSTIR FG: Real-Time Reservoir Resampled Photon Final Gathering](https://diglib.eg.org/items/df98f89d-a0ca-4800-9bc4-74528feaf872)
 - ### Sampling
  - [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547)
+ - [Cache Points For Production-Scale Occlusion-Aware Many-Lights Sampling And Volumetric Scattering](https://www.yiningkarlli.com/projects/cachepoints/cachepoints.pdf)
+ - [Demystifying multiple importance sampling](https://lisyarus.github.io/blog/posts/multiple-importance-sampling.html)
+- ### Photon Mapping
+  - [Many Resources](https://drive.google.com/drive/folders/1IMPSHxivhh9p_ULQHtlmdrKYUGROlwP5)
+  - [Light transport simulation with vertex connection and merging](https://iliyan.com/publications/VertexMerging)
 
 # Denoising
 - [Autoencoders and the Denoising Feature: From Theory to Practice](https://towardsdatascience.com/autoencoders-and-the-denoising-feature-from-theory-to-practice-db7f7ad8fc78)
@@ -144,6 +164,9 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Using a RNN for 2D Tile Map Synthesis](https://voxely.net/blog/using-a-rnn-for-2d-tile-map-synthesis/)
 - [Understanding Semantic Segmentation with UNET](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
 - [Convolutional Neural Network: An Overview](https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/)
+- [Transforming a Non-Differentiable Rasterizer into a Differentiable One with Stochastic Gradient Estimation](https://ggx-research.github.io/publication/2024/04/17/publication-intel-diffrast.html)
+- [Understanding 3D Gaussian Splatting via Render Engines](https://radiancefields.com/understanding-3d-gaussian-splatting-via-render-engines)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/jonstephens85/gaussian-splatting-Windows)
 
 # GPU Architecture
 - [Render Hell 2.0 ](https://simonschreibt.de/gat/renderhell/)
@@ -164,6 +187,12 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [SIGGRAPH 2023 Links](https://blog.selfshadow.com/2023/08/12/siggraph-2023-links/)
 - [SIGGRAPH 2024 Links](https://blog.selfshadow.com/2024/08/03/siggraph-2024-links/)
 - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
+- [DOOM Eternal - Graphics Study](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy)
+- [Nanite](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
+- [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
+
+#Graphics Papers Resources By Ke-San
+- https://kesen.realtimerendering.com/
 
 ## Mesh Resources
 - https://casual-effects.com/g3d/data10/index.html#mesh15
@@ -207,5 +236,8 @@ There are over 2,000 references in Real-Time Rendering 4th Edition, which togeth
 - [Developer Roadmaps](https://roadmap.sh/)
 - [Software optimization resources](https://www.agner.org/optimize/)
 - [Progressive Path Tracing with Explicit Light Sampling](https://computergraphics.stackexchange.com/questions/5152/progressive-path-tracing-with-explicit-light-sampling)
+- [Malloc tutorial](https://danluu.com/malloc-tutorial/)
+- [Linux and UNIX programming](https://man7.org/training/)
+- [Operating Systems Dev](https://osdev.org/)
  
 
