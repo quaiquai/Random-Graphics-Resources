@@ -52,6 +52,7 @@ Some random resources I have found over the years. Will be expanding and organiz
 
 # OpenGL
 - [LearnOpenGL](https://learnopengl.com/)
+- [Opengl-Tutorial](https://www.opengl-tutorial.org/)
 
 # Debugging
 - [RenderDoc](https://www.realtimerendering.com/)
