@@ -49,8 +49,8 @@ Some random resources I have found over the years. Will be expanding and organiz
 
 ## Path Tracing
 - https://wwwtyro.net/2018/02/25/caffeine.html
-- ###ReSTIR
-  - [A gentler introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
+###ReSTIR
+- [A gentler introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
 
 ## Ray Casting
 - [Raycasting](https://lodev.org/cgtutor/raycasting.html)
