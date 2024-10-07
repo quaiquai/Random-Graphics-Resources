@@ -4,6 +4,14 @@ Some random resources I have found over the years. Will be expanding and organiz
 ## Graphics Basics
 - [A trip through the Graphics Pipeline 2011: Index](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [Real-Time Rendering Resources (BOOKS) ](https://www.realtimerendering.com/)
+- [Scratchapixel](https://www.scratchapixel.com/)
+- [The Graphics Codex](https://graphicscodex.com/app/app.html?)
+- [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+
+## Math
+- [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Showing the Correctness of Quaternion Rotation](https://erkaman.github.io/posts/quaternion_rotation.html)
 
 ## DirectX11
 - http://www.rastertek.com/tertut16.html
@@ -16,6 +24,9 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Vulkan Examples](https://github.com/SaschaWillems/Vulkan)
 - [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Vulkan Synchronization Primer](https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/)
+
+## OpenGL
+- [LearnOpenGL](https://learnopengl.com/)
 
 ## Debugging
 - [RenderDoc](https://www.realtimerendering.com/)
@@ -48,7 +59,8 @@ Some random resources I have found over the years. Will be expanding and organiz
 ## Shader Techniques & Tutorials
 - [RSL Using smoothstep](https://www.fundza.com/rman_shaders/smoothstep/)
 
-
+## Great Articles
+- https://erkaman.github.io/posts/junior_graphics_programmer_interview.html?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
 https://erkaman.github.io/posts/junior_graphics_programmer_interview.html?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
