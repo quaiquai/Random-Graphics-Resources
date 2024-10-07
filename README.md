@@ -7,6 +7,7 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Scratchapixel](https://www.scratchapixel.com/)
 - [The Graphics Codex](https://graphicscodex.com/app/app.html?)
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+- [Ray Tracing Essentials](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
 
 ## Math
 - [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
@@ -39,15 +40,30 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [GPU-Accelerated Particles with WebGL 2](https://gpfault.net/posts/webgl2-particles.txt.html)
 - [Implementing soft particles in WebGL and OpenGL ES](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0)
 
+## Voxel Rendering
+- [Voxel Rendering Using Discrete Ray Tracing](http://castingrays.blogspot.com/2014/01/voxel-rendering-using-discrete-ray.html?m=1)
+
 ## NON-EUCLIDEAN RENDERING
 - http://tume-maailm.pri.ee/ylikool/ComputerGraphicsSeminar/2016/fall/other/Non-Euclidean%20Geometry%20Rendering%20-%20Diana%20Algma.pdf
 - https://torinmr.github.io/cs148/
 
-## Basic Path Tracing
+## Path Tracing
 - https://wwwtyro.net/2018/02/25/caffeine.html
+- ###ReSTIR
+  - [A gentler introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
+
+## Ray Casting
+- [Raycasting](https://lodev.org/cgtutor/raycasting.html)
+
+## Physically Based Rendering
+- [Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2016-shading-course/#course_content)
+- [PBR A Multi-Faceted Exploration](https://blog.selfshadow.com/2018/05/13/multi-faceted-part-1/)
 
 ## Subsurface Scattering
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
+
+## Volume Rendering
+- [Production Volume Rendering](https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf)
 
 ## SDF Shaders & Resources
 -https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf
@@ -59,20 +75,11 @@ Some random resources I have found over the years. Will be expanding and organiz
 ## Shader Techniques & Tutorials
 - [RSL Using smoothstep](https://www.fundza.com/rman_shaders/smoothstep/)
 
-## Great Articles
-- https://erkaman.github.io/posts/junior_graphics_programmer_interview.html?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+## Great People's Articles
+- https://erkaman.github.io
+- https://astralcode.blogspot.com/
+- https://blog.selfshadow.com/
 
-https://erkaman.github.io/posts/junior_graphics_programmer_interview.html?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-
-https://astralcode.blogspot.com/2020/03/reverse-engineering-rendering-of_11.html?m=1&utm_source=share&utm_medium=ios_app&utm_name=iossmf
-
-https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf
-
-http://castingrays.blogspot.com/2014/01/voxel-rendering-using-discrete-ray.html?m=1
-
-https://news.developer.nvidia.com/ray-tracing-essentials-part-3-ray-tracing-hardware/
-
-https://blog.selfshadow.com/publications/s2016-shading-course/#course_content
 
 https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/amp/?__twitter_impression=true
 
