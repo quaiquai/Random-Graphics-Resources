@@ -1,14 +1,14 @@
 # Graphics-Resources
 Some random resources I have found over the years. Will be expanding and organizing later.
 
-##Graphics Basics
+## Graphics Basics
 - [A trip through the Graphics Pipeline 2011: Index](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [Real-Time Rendering Resources (BOOKS) ](https://www.realtimerendering.com/)
 
-##DirectX11
+## DirectX11
 - http://www.rastertek.com/tertut16.html
 
-##Vulkan
+## Vulkan
 - [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan/)
 - [API without Secrets: Introduction to Vulkan](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-1.html)
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
@@ -17,35 +17,35 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Vulkan Synchronization Primer](https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/)
 
-##Debugging
+## Debugging
 - [RenderDoc](https://www.realtimerendering.com/)
 
-##Frustum Culling
+## Frustum Culling
 - [View frustum culling](https://fgiesen.wordpress.com/2010/10/17/view-frustum-culling/)
 
-##Particle Systems
+## Particle Systems
 - [WebGL Tutorial: Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/)
 - [GPU-Accelerated Particles with WebGL 2](https://gpfault.net/posts/webgl2-particles.txt.html)
 - [Implementing soft particles in WebGL and OpenGL ES](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0)
 
-##NON-EUCLIDEAN RENDERING
+## NON-EUCLIDEAN RENDERING
 - http://tume-maailm.pri.ee/ylikool/ComputerGraphicsSeminar/2016/fall/other/Non-Euclidean%20Geometry%20Rendering%20-%20Diana%20Algma.pdf
 - https://torinmr.github.io/cs148/
 
-##Basic Path Tracing
+## Basic Path Tracing
 - https://wwwtyro.net/2018/02/25/caffeine.html
 
-##Subsurface Scattering
+## Subsurface Scattering
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 
-##SDF Shaders & Resources
+## SDF Shaders & Resources
 -https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf
 
-##Collision Detection & Physics
+## Collision Detection & Physics
 - https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects
 - https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics
 
-##Shader Techniques & Tutorials
+## Shader Techniques & Tutorials
 - [RSL Using smoothstep](https://www.fundza.com/rman_shaders/smoothstep/)
 
 
