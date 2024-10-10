@@ -75,6 +75,10 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [raytracing 187,500 voxels in the browser with only 13 kilobytes](https://idkwhatt0callthis.blogspot.com/2024/09/raytracing-187500-voxels-in-browser.html)
 - [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 - [Filtering After Shading with Stochastic Texture Filtering](https://research.nvidia.com/labs/rtr/publication/pharr2024stochtex/)
+- [High Performance Voxel Engine: Vertex Pooling](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
+- [Exile: Voxel Rendering Pipeline](https://thenumb.at/Voxel-Meshing-in-Exile/)
+- [Meshing in a Minecraft Game](https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/)
+- [A guide to fast voxel ray tracing using sparse 64-trees](https://dubiousconst282.github.io/2024/10/03/voxel-ray-tracing/)
 
 # Foveated Rendering
 - [Foveated rendering: A state-of-the-art survey](https://www.sciopen.com/article/10.1007/s41095-022-0306-4)
@@ -191,6 +195,8 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [DOOM Eternal - Graphics Study](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy)
 - [Nanite](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
 - [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
+- [Approaching Zero Driver Overhead in OpenGL (Presented by NVIDIA)](https://gdcvault.com/play/1020791/)
+  
 
 #Graphics Papers Resources By Ke-San
 - https://kesen.realtimerendering.com/
