@@ -16,6 +16,8 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Rasterising a triangle](https://jtsorlinis.github.io/rendering-tutorial/)
 - [Graphics Gems, by Book](https://www.realtimerendering.com/resources/GraphicsGems/gems.html#gems)
 - [Berkeley Graphics Course](https://cs184.eecs.berkeley.edu/sp24)
+- [Graphics Programming Compendium](https://graphicscompendium.com/index.html)
+- [Coding labs](http://www.codinglabs.net/default.aspx)
 
 # Math
 - [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
@@ -131,7 +133,8 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [SIGGRAPH 2020 Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2020-shading-course/)
 - [Physically Based Shading Example](https://www.shadertoy.com/view/4sSfzK)
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.md.html)
-
+- [Article - Physically Based Rendering](http://www.codinglabs.net/article_physically_based_rendering.aspx)
+  
 # Subsurface Scattering
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 
