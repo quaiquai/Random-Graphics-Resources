@@ -18,6 +18,9 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Berkeley Graphics Course](https://cs184.eecs.berkeley.edu/sp24)
 - [Graphics Programming Compendium](https://graphicscompendium.com/index.html)
 - [Coding labs](http://www.codinglabs.net/default.aspx)
+- [SIGGRAPH 2025 Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2025-shading-course/)
+- [Physically Based Rendering: Putting Pieces Together](https://www.youtube.com/watch?v=OwyMw2C4UfA&t=1s)
+- [How do I become a graphics programmer? - A small guide from the AMD Game Engineering team](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 
 # Math
 - [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
@@ -33,6 +36,8 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 - [Calculus BLUE Vol 1 : Vectors & Matrices ](https://www.youtube.com/playlist?list=PL8erL0pXF3JYm7VaTdKDaWc8Q3FuP8Sa7)
 - [Rotors: A practical introduction for 3D graphics](https://jacquesheunis.com/post/rotors/)
+- [Quaternions - Freya Holmer](https://www.youtube.com/watch?v=PMvIWws8WEo)
+- [Reading Math Papers](https://mini.gmshaders.com/p/readingmath)
 
   
 # DirectX
@@ -40,11 +45,13 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Getting Started With DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
 - [DX12 Raytracing tutorial](https://developer.nvidia.com/rtx/raytracing/dxr/dx12-raytracing-tutorial-part-1)
 - [Learning DirectX 12 in 2023](https://whoisryosuke.com/blog/2023/learning-directx-12-in-2023)
+- [Intel® Arc™ Graphics Developer Guide for Real-Time Ray Tracing in Games](https://www.intel.com/content/www/us/en/developer/articles/guide/real-time-ray-tracing-in-games.html?1)
 
 # Vulkan
 - [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan/)
 - [API without Secrets: Introduction to Vulkan](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-1.html)
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
+- [NVIDIA Vulkan Ray Tracing Tutorials (v2.0)](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 - [Vulkan Spec](https://registry.khronos.org/vulkan/specs/1.1/html/vkspec.html)
 - [Vulkan Examples](https://github.com/SaschaWillems/Vulkan)
 - [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
@@ -58,6 +65,7 @@ Some random resources I have found over the years. Will be expanding and organiz
 
 # Debugging
 - [RenderDoc](https://www.realtimerendering.com/)
+- [Mastering NVIDIA Nsight: GPU Performance Analysis for Ray Tracing Applications](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit72423/?playlistId=playlist-108242b0-35ac-4765-9796-d6961cb026c4)
 
 # Frustum Culling
 - [View frustum culling](https://fgiesen.wordpress.com/2010/10/17/view-frustum-culling/)
@@ -104,6 +112,10 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Implementing a GPU Voxel Octree Path Tracer](https://www.enkisoftware.com/devlogpost-20230823-1-Implementing-a-GPUVoxel-Octree-Path-Tracer)
 - [Rendering Algorithms Course Material](https://cs87-dartmouth.github.io/Fall2022/schedule.html)
 - [The Technology of The Tomorrow Children](https://www.gdcvault.com/play/1022428/The-Technology-of-The-Tomorrow)
+- [Naive GI: A Foundation](https://jason.today/gi)
+- [Path Tracing a Trillion Triangles](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Path-Tracing-a-Trillion-Triangles/post/1687563)
+- [Path Tracing Nanite in NVIDIA Zorah](https://www.nvidia.com/en-us/on-demand/session/gdc25-gdc1002/)
+  
 - ### ReSTIR
  - [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://research.nvidia.com/sites/default/files/pubs/2020-07_Spatiotemporal-reservoir-resampling/ReSTIR.pdf)
  - [ReSTIR GI: Path Resampling for Real-Time Path Tracing](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
@@ -111,16 +123,35 @@ Some random resources I have found over the years. Will be expanding and organiz
  - [A Gentle Introduction to ReSTIR: Path Reuse in Real-time](https://intro-to-restir.cwyman.org/)
  - [Spatiotemporal Reservoir Resampling (ReSTIR) - Theory and Basic Implementation](https://gamehacker1999.github.io/posts/restir/)
  - [ReSTIR FG: Real-Time Reservoir Resampled Photon Final Gathering](https://diglib.eg.org/items/df98f89d-a0ca-4800-9bc4-74528feaf872)
+ - [ReSTIR: Traveling the Path of Reuse](https://www.youtube.com/watch?v=MRg91ZB1wU8)
+ - [Understanding The Math Behind ReSTIR GI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_gi/)
+
 - ### Sampling
  - [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547)
  - [Cache Points For Production-Scale Occlusion-Aware Many-Lights Sampling And Volumetric Scattering](https://www.yiningkarlli.com/projects/cachepoints/cachepoints.pdf)
  - [Demystifying multiple importance sampling](https://lisyarus.github.io/blog/posts/multiple-importance-sampling.html)
+ - [Neural Super Sampling](https://huggingface.co/Arm/neural-super-sampling/blob/main/2025-neural-super-sampling.pdf)
+ - [Neural Visibility Cache for Real-Time Light Sampling](https://jcgt.org/published/0014/02/01/)
+ - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
+   
 - ### Photon Mapping
   - [Many Resources](https://drive.google.com/drive/folders/1IMPSHxivhh9p_ULQHtlmdrKYUGROlwP5)
   - [Light transport simulation with vertex connection and merging](https://iliyan.com/publications/VertexMerging)
+  - [Accelerated Photon Mapping for Hardware-based Ray Tracing](https://jcgt.org/published/0012/01/01/)
+  - [Photon Splatting Using a View-Sample Cluster Hierarchy](https://www.cse.chalmers.se/~uffe/Photon-Splatting-Using-a-View-Sample-Cluster-Hierarchy.pdf)
+  - [Toward practical real-time photon mapping: efficient GPU density estimation](https://dl.acm.org/doi/10.1145/2448196.2448207)
+ 
+## GI Approximation
+### Radient Cascades
+- [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
+- [Surfel Radiance Cascades](https://github.com/mxcop/src-dgi)
 
 # Denoising
 - [Autoencoders and the Denoising Feature: From Theory to Practice](https://towardsdatascience.com/autoencoders-and-the-denoising-feature-from-theory-to-practice-db7f7ad8fc78)
+
+# Nerual Shading
+- [Get Started with RTX Neural Shaders](https://www.youtube.com/playlist?list=PL4FII4B-zM0fUVFXDePii9KjJE-uZDn3X)
+- [An Introduction to Neural Shading](https://research.nvidia.com/labs/rtr/publication/duca2025neural/)
 
 # Ray Casting
 - [Raycasting](https://lodev.org/cgtutor/raycasting.html)
@@ -138,6 +169,9 @@ Some random resources I have found over the years. Will be expanding and organiz
 # Subsurface Scattering
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 
+# Participating Media and Atmospheric Scattering
+- [Precomputed Atmospheric Scattering: a New Implementation](https://ebruneton.github.io/precomputed_atmospheric_scattering/)
+
 # Volume Rendering
 - [Production Volume Rendering](https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf)
 
@@ -149,10 +183,28 @@ Some random resources I have found over the years. Will be expanding and organiz
 # Shadows
 - [Bitmask Soft Shadows](https://michael-schwarz.com/research/publ/files/bmss-eg07.pdf)
 - [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
+- [Real-Time Importance Deep Shadows Maps with Hardware Ray Tracing](https://diglib.eg.org/items/ff5055b6-be32-414a-8d63-41fdb7296e10)
+- [Inside Bend: Sceen Space Shadows](https://www.bendstudio.com/blog/inside-bend-screen-space-shadows/)
+
+# Area Lights
+- [Shader code for rectangle light - Wicked Engine](https://github.com/turanszkij/WickedEngine/blob/master/WickedEngine/shaders/lightingHF.hlsli#L415)
+
+# Light Probes
+- [GDC Light probe interpolation using tetrahedral tessellations](https://gdcvault.com/play/1015312/Light-Probe-Interpolation-Using-Tetrahedral)
+
+# Spectral Rendering
+- [Spectral rendering: Overview](https://momentsingraphics.de/SpectralRenderingOverview.html)
+
+# Techniques
+- [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
+- [Coding "This is Us"](https://gboisse.github.io/posts/this-is-us/)
+- [Hierarchical Depth Buffers](https://miketuritzin.com/post/hierarchical-depth-buffers/)
 
 # AR/VR
 - [Automatic Estimation of Illumination Features for Indoor Photorealistic Rendering in Augmented Reality](https://www.researchgate.net/publication/300545878_Automatic_Estimation_of_Illumination_Features_for_Indoor_Photorealistic_Rendering_in_Augmented_Reality)
-- 
+
+# GLTF
+- [glTF - Tutorials](https://github.khronos.org/glTF-Tutorials/)
 
 # Collision Detection & Physics
 - https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects
@@ -166,6 +218,8 @@ Some random resources I have found over the years. Will be expanding and organiz
 
 # Shader Techniques & Tutorials
 - [RSL Using smoothstep](https://www.fundza.com/rman_shaders/smoothstep/)
+- [Shader Basics](https://bobacupcake.com/shader-basics)
+- [Programming tricks in Shadertoy / GLSL](https://shadertoyunofficial.wordpress.com/2019/01/02/programming-tricks-in-shadertoy-glsl/)
 
 # Deep Learning/Machine Learning For Graphics
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
@@ -175,6 +229,9 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Transforming a Non-Differentiable Rasterizer into a Differentiable One with Stochastic Gradient Estimation](https://ggx-research.github.io/publication/2024/04/17/publication-intel-diffrast.html)
 - [Understanding 3D Gaussian Splatting via Render Engines](https://radiancefields.com/understanding-3d-gaussian-splatting-via-render-engines)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/jonstephens85/gaussian-splatting-Windows)
+- [Rendering and Geometry from 3D Gaussian Splatting](https://www.youtube.com/watch?v=cQXjIWlPj3g)
+- [Neural Cone Radiosity for Interactive Global Illumination with Glossy Materials](https://arxiv.org/abs/2509.07522)
+- [Course: Deep Learning on Meshes and Point Clouds](https://rubenwiersma.nl/deeplearning)
 
 # GPU Architecture
 - [Render Hell 2.0 ](https://simonschreibt.de/gat/renderhell/)
@@ -185,6 +242,9 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Understanding Modern GPUs](https://traxnet.wordpress.com/2011/07/16/understanding-modern-gpus-1/)
 - [Intel® Processor Graphics: Architecture & Programming](https://doc.lagout.org/electronics/Intel-Graphics-Architecture-ISA-and-microarchitecture.pdf)
 - [GPU Architecture & Compute Shaders](https://drive.google.com/file/d/14y1dCc9Yy4G5ZGrfcl2Locj4PDOro_Zi/view)
+- [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
+- [Roadmap: Understanding GPU Architecture](https://cvw.cac.cornell.edu/gpu-architecture)
+- [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d) 
 
 # Misc Interesting Reads and Watches
 - [Behind the Pretty Frames: Elden Ring](https://mamoniem.com/behind-the-pretty-frames-elden-ring/)
@@ -199,13 +259,29 @@ Some random resources I have found over the years. Will be expanding and organiz
 - [Nanite](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
 - [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
 - [Approaching Zero Driver Overhead in OpenGL (Presented by NVIDIA)](https://gdcvault.com/play/1020791/)
-  
+- [Advances in Real-Time Rendering in Games Part II](https://dl.acm.org/doi/10.1145/3721241.3744991)
+- [Rare Gems of Computer Graphics History](https://www.youtube.com/watch?v=Rk8cVKQ4Qp4)
+- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Teardown Frame Teardown](https://acko.net/blog/teardown-frame-teardown/)
+- [Teardown Teardown](https://juandiegomontoya.github.io/teardown_breakdown.html)
+- [Profiling without Source code – how I diagnosed Trackmania stuttering](https://larstofus.com/2025/07/27/profiling-without-source-code-how-i-diagnosed-trackmania-stuttering/)
+- [Path Tracing Optimization in Indiana Jones™: Shader Execution Reordering and Live State Reductions](https://developer.nvidia.com/blog/path-tracing-optimization-in-indiana-jones-shader-execution-reordering-and-live-state-reductions/)
+- [What Every Programmer Should Know about How CPUs Work](https://www.youtube.com/watch?v=-HNpim5x-IE&t=1s)
+
+# WebGPU
+- [Build and app with WebGPU](https://developer.chrome.com/docs/web-platform/webgpu/build-app)
+- [WebGPU Fundamentals](https://webgpufundamentals.org/)
+
+# R3F (React Three Fiber)
+- [The Study of Shaders with React](https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/)
 
 #Graphics Papers Resources By Ke-San
 - https://kesen.realtimerendering.com/
 
 ## Mesh Resources
 - https://casual-effects.com/g3d/data10/index.html#mesh15
+- [Creating Optimal Meshes for Ray Tracing](https://developer.nvidia.com/blog/creating-optimal-meshes-for-ray-tracing/)
+- [Billions of triangles in minutes](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
 
 ## The Rendering Bibliography by Wojciech Jarosz
 - https://github.com/wkjarosz/rendering-bib
@@ -235,6 +311,14 @@ There are over 2,000 references in Real-Time Rendering 4th Edition, which togeth
 - https://www.reedbeta.com/
 - https://clauswilke.com/art/post/
 - https://www.3dgep.com/
+- https://www.icare3d.org/
+- https://blog.maximeheckel.com/
+- https://momentsingraphics.de/index.html
+- https://jason.today/
+- https://zeux.io/
+- https://www.redblobgames.com/
+- https://advances.realtimerendering.com/s2025/
+- https://blog.selfshadow.com/2025/08/15/siggraph-2025-links/
 
 #### Random Other CS Stuff
 - [CNN Intro](https://dafriedman97.github.io/mlbook/content/c7/concept.html)
@@ -249,5 +333,9 @@ There are over 2,000 references in Real-Time Rendering 4th Edition, which togeth
 - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
 - [Linux and UNIX programming](https://man7.org/training/)
 - [Operating Systems Dev](https://osdev.org/)
+- [Making Software](https://www.makingsoftware.com/)
+- [Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond (3rd Edition)](https://archive.org/details/introduction-to-computing-systems-from-bits-gates-to-c-beyond-yale-patt-z-library)
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/)
+- [Simultaneous Localization and Mapping (SLAM) for Robotics](https://www.youtube.com/playlist?list=PLZ_sI4f41TGtsqgT6cMLCUCYOT7mCjBMM)
  
 
