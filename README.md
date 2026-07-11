@@ -262,6 +262,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Shader Basics](https://bobacupcake.com/shader-basics)
 - [Programming tricks in Shadertoy / GLSL](https://shadertoyunofficial.wordpress.com/2019/01/02/programming-tricks-in-shadertoy-glsl/)
 - [SDFs & Procedural Content Generation](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+- [On Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 
 ### Screen Space Reflection
 - [Screen Space Reflection (SSR)](https://lettier.github.io/3d-game-shaders-for-beginners/screen-space-reflection.html)
@@ -392,6 +393,7 @@ Individual blogs and portfolios with consistently excellent graphics content:
 - [Jason C. Yang](https://jason.today/)
 - [Arseny Kapoulkine (zeux)](https://zeux.io/)
 - [Red Blob Games](https://www.redblobgames.com/)
+- [Maxime Heckel](https://blog.maximeheckel.com/#articles)
 
 ---
 
