@@ -81,6 +81,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 - [Trip down the GPU lane with Machine Learning](https://www.slideshare.net/slideshow/trip-down-the-gpu-lane-with-machine-learning-83311744/83311744#56)
 - [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
+- [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/programming-model.html)
 
 ---
 
@@ -180,6 +181,8 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Article - Physically Based Rendering](http://www.codinglabs.net/article_physically_based_rendering.aspx)
 - [Physically Based Rendering: Putting Pieces Together](https://www.youtube.com/watch?v=OwyMw2C4UfA&t=1s)
 - [Spectral rendering: Overview](https://momentsingraphics.de/SpectralRenderingOverview.html)
+- [Physically based rendering from first principles](https://imadrahmoune.com/pbr/)
+
 
 ### Global Illumination
 
@@ -219,6 +222,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Get Started with RTX Neural Shaders](https://www.youtube.com/playlist?list=PL4FII4B-zM0fUVFXDePii9KjJE-uZDn3X)
 - [An Introduction to Neural Shading](https://research.nvidia.com/labs/rtr/publication/duca2025neural/)
 - [Neural Cone Radiosity for Interactive Global Illumination](https://arxiv.org/abs/2509.07522)
+- [Real-time Rendering with a Neural Irradiance Volume](https://arnocoomans.be/eg2026/)
 
 ---
 
@@ -235,6 +239,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Meshing in a Minecraft Game](https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/)
 - [A guide to fast voxel ray tracing using sparse 64-trees](https://dubiousconst282.github.io/2024/10/03/voxel-ray-tracing/)
 - [Voxel Space](https://www.youtube.com/watch?v=bQBY9BM9g_Y&ab_channel=pikuma)
+- [NAADF: Globally Illuminated Voxel Worlds Accelerated with Nested Axis-Aligned Distance Fields](https://github.com/cg-tuwien/NAADF)
 
 ### Particle Systems
 - [WebGL Tutorial: Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/)
@@ -267,6 +272,9 @@ A curated collection of computer graphics resources covering fundamentals, advan
 ### Screen Space Reflection
 - [Screen Space Reflection (SSR)](https://lettier.github.io/3d-game-shaders-for-beginners/screen-space-reflection.html)
 
+### Spherical Harmonics
+- [Introduction to Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html)
+
 ### Specialized Rendering Techniques
 - [Foveated rendering: A state-of-the-art survey](https://www.sciopen.com/article/10.1007/s41095-022-0306-4)
 - [Non-Euclidean Geometry Rendering](http://tume-maailm.pri.ee/ylikool/ComputerGraphicsSeminar/2016/fall/other/Non-Euclidean%20Geometry%20Rendering%20-%20Diana%20Algma.pdf)
@@ -280,6 +288,9 @@ A curated collection of computer graphics resources covering fundamentals, advan
 
 ### AR/VR
 - [Automatic Estimation of Illumination Features for AR](https://www.researchgate.net/publication/300545878_Automatic_Estimation_of_Illumination_Features_for_Indoor_Photorealistic_Rendering_in_Augmented_Reality)
+
+### Render Graphs
+- [The Art of Render Graphs](https://alielmorsy.github.io/the-art-of-render-graphs/)
 
 ---
 
@@ -360,6 +371,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Graphics Papers Resources By Ke-San](https://kesen.realtimerendering.com/)
 - [Random RTR Reference Generator](https://www.realtimerendering.com/random.html)
 - [High-Performance Graphics 2025 videos](https://www.youtube.com/@HighPerformanceGraphics/playlists)
+- [Creating a DirectX12 3D Engine When You Know Nothing About 3D Programming](https://petitl.fr/articles/creating-a-directx12-3d-engine-when-you-know-nothing)
 
 ---
 
@@ -394,6 +406,7 @@ Individual blogs and portfolios with consistently excellent graphics content:
 - [Arseny Kapoulkine (zeux)](https://zeux.io/)
 - [Red Blob Games](https://www.redblobgames.com/)
 - [Maxime Heckel](https://blog.maximeheckel.com/#articles)
+- [GPFault](https://gpfault.net/)
 
 ---
 
