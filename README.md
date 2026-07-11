@@ -39,6 +39,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Coding labs](http://www.codinglabs.net/default.aspx)
 - [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors)
 - [Introduction to Animation Software Engineering](https://nccastaff.bournemouth.ac.uk/jmacey/msc/ase/lectures/Lecture1/)
+- [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
 
 ---
 
@@ -79,6 +80,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Roadmap: Understanding GPU Architecture](https://cvw.cac.cornell.edu/gpu-architecture)
 - [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 - [Trip down the GPU lane with Machine Learning](https://www.slideshare.net/slideshow/trip-down-the-gpu-lane-with-machine-learning-83311744/83311744#56)
+- [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 
 ---
 
@@ -97,6 +99,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Intel® Arc™ Graphics Developer Guide for Real-Time Ray Tracing](https://www.intel.com/content/www/us/en/developer/articles/guide/real-time-ray-tracing-in-games.html?1)
 
 ### Vulkan
+- [Khronos Vulkan Tutorial](https://docs.vulkan.org/tutorial/latest/00_Introduction.html)
 - [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan/)
 - [API without Secrets: Introduction to Vulkan](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-1.html)
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
@@ -243,6 +246,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 ### Acceleration Structures
 - [View frustum culling](https://fgiesen.wordpress.com/2010/10/17/view-frustum-culling/)
 - [How to build a BVH - JBikker](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
+- [BVH in Ray Tracing](https://marshall5.medium.com/bvh-in-ray-tracing-435c837549a8)
 - [Hierarchical Depth Buffers](https://miketuritzin.com/post/hierarchical-depth-buffers/)
 
 ### Mesh Processing & Optimization
@@ -258,6 +262,9 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [Shader Basics](https://bobacupcake.com/shader-basics)
 - [Programming tricks in Shadertoy / GLSL](https://shadertoyunofficial.wordpress.com/2019/01/02/programming-tricks-in-shadertoy-glsl/)
 - [SDFs & Procedural Content Generation](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+
+### Screen Space Reflection
+- [Screen Space Reflection (SSR)](https://lettier.github.io/3d-game-shaders-for-beginners/screen-space-reflection.html)
 
 ### Specialized Rendering Techniques
 - [Foveated rendering: A state-of-the-art survey](https://www.sciopen.com/article/10.1007/s41095-022-0306-4)
@@ -351,6 +358,7 @@ A curated collection of computer graphics resources covering fundamentals, advan
 - [The Rendering Bibliography by Wojciech Jarosz](https://github.com/wkjarosz/rendering-bib)
 - [Graphics Papers Resources By Ke-San](https://kesen.realtimerendering.com/)
 - [Random RTR Reference Generator](https://www.realtimerendering.com/random.html)
+- [High-Performance Graphics 2025 videos](https://www.youtube.com/@HighPerformanceGraphics/playlists)
 
 ---
 
